@@ -22,7 +22,7 @@ DevOps:   🐳 Docker
 - 🌱 Siempre aprendiendo algo nuevo
 
 ### 📫 Búscame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stiven-guanoquiza-a47142246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stivengt09/)
 
 ---
 *"El código es poesía en movimiento"* 🚀
